@@ -22,9 +22,19 @@
 
 <a href="pic12.html">Location of China PLA Navy</a><br><br>
 
+<a href="pic13.html">贫富之争</a><br><br>
+
+<a href="pic14.html">China's Top Crude Suppliers 2011</a><br><br>
+
+<a href="pic15.html">2012 Defense Budget Comparison by Billion (USD)</a><br><br>
+
+
+
+
 
 <a href= "link02.html" > 网络空间和国防安全</a><br><br>
 
 <a href= "link01.html" > 美国调整亚太安全战略</a><br><br>
 
+<a href="link03.html">美国山寨的江南Style</a><br><br>
 
